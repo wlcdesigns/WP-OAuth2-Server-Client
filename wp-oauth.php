@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP OAuth2 Server & Client
- * Plugin URI: http://wp-oauth.com
+ * Plugin URI: https://github.com/wlcdesigns/WP-OAuth2-Server-Client
  * Version: 0.1.0
  * Description: Use WordPress to power your OAuth Server. Provide Single Sign On and other OAuth functionality.
  * Author: Justin Greer & wLc Designs
