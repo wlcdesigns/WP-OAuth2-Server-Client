@@ -17,7 +17,7 @@
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of.
  *
- * @author  Justin Greer <justin@justin-greer.com>
+ * @author  wLc Designs
  * @package WordPress OAuth Server
  */
 
